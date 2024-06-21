@@ -13,12 +13,12 @@
 
 🔭 **Expertise**
 
-- Proficient in Verilog, understanding of SystemVerilog and UVM, experience in joint debugging of hardware and software; 
-- Proficient in using Xilinx FPGA chips from mainstream vendors, familiar with digital logic design (including module design, RTL programming, simulation and verification, etc.);
+- Proficient in Verilog, SystemVerilog and UVM, experience in joint debugging of hardware and software; 
+- Proficient in using Xilinx FPGAs, familiar with digital logic design (including module design, RTL programming, simulation and verification, etc.);
 - Knowledge of commonly used FPGA development and simulation tools, such as Vivado, VCS, Questasim, Synplify;
-- Familiar with Cadence circuit schematic and PCB drawing software; familiar with object-oriented language programming such as C++ and Python; 
-- Familiar with chip test flow and basic principles, experience in FT test, and have used mainstream chip test machine ATE Edelman V93000;
-- Experience in FPGA prototyping and ASIC to FPGA engineering conversion;
+- Familiar with Cadence circuit schematic and PCB drawing software; familiar with programming language such as C++ and Python; 
+- Familiar with chip test flow and basic principles, experience in FT test, and have used ATE Advantest V93000;
+- Experience in FPGA prototype verification and ASIC to FPGA engineering conversion;
 
 <!--
 **WBChe/WBChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
