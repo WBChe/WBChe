@@ -5,7 +5,7 @@
 <a href="https://scholar.google.com/citations?user=0PbLvCEAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
 </p>
 
-I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).
+**I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).**
 
 👯 **I'll be graduating in June 2025, and am actively looking for the Ph.D program and full-time IC/FPGA development engineer positions.**
 
