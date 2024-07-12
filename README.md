@@ -7,7 +7,7 @@
 
 **I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).**
 
-👯 **I'll be graduating in June 2025, and am actively looking for the Ph.D program and full-time IC/FPGA development engineer positions.**
+👯 **I'll be graduating in June 2025, and am actively looking for the Ph.D program.**
 
 😄 **If interested in accepting me, please contact me :)**
 
