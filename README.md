@@ -9,15 +9,11 @@
 
 👯 **I'll be graduating in June 2025, and am actively looking for the Ph.D program.**
 
-😄 **If interested in accepting me, please contact me :)**
-
 🔭 **Expertise**
 
 - Proficient in Verilog, SystemVerilog and UVM, experience in joint debugging of hardware and software; 
 - Proficient in using Xilinx FPGAs, familiar with digital logic design (including module design, RTL programming, simulation and verification, etc.);
-- Knowledge of commonly used FPGA development and simulation tools, such as Vivado, VCS, Questasim, Synplify;
-- Familiar with Cadence circuit schematic and PCB drawing software; familiar with programming language such as C++ and Python; 
-- Familiar with chip test flow and basic principles, experience in FT test, and have used ATE Advantest V93000;
+- Familiar with programming language such as C++ and Python; 
 - Experience in FPGA prototype verification and ASIC to FPGA engineering conversion;
 
 <!--
