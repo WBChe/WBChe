@@ -8,16 +8,15 @@
 
 **I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).**
 
-🌱 I’m currently learning Hardware Verification.
+🌱 I’m currently learning Hardware Formal Verification.
 
-👯 I'll be graduating in June 2025, and am actively looking for the Ph.D program.
+👯 I'll be graduating in June 2025.
 
 🔭 **Expertise**
 
 - Verilog, SystemVerilog and UVM
 - C++ and Python
-- Xilinx FPGAs, digital logic design (RTL programming, simulation verification)
-- FPGA prototype verification (ASIC to FPGA)
+- FPGA
 
 <!--
 **WBChe/WBChe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
